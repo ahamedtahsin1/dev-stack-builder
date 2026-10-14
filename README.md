@@ -46,9 +46,20 @@ src/
   styles.css               # responsive design system
 ```
 
-## 🌐 Deploy
 
-Deploy the project to Netlify, Vercel, or Cloudflare Pages using `npm run build` as the build command and `dist` as the output directory.
+## 🌐 Live Demo
+
+- **Vercel:** https://dev-stack-builder-tahsin.vercel.app/
+- **GitHub Repository:** https://github.com/ahamedtahsin1/dev-stack-builder
+
+## 🚀 Deploy
+
+Build command: `npm run build`  
+Output directory: `dist`
+
+The project uses separate Vite base paths for Vercel and GitHub Pages.
+
+
 
 ## 🧠 React questions
 
@@ -87,3 +98,6 @@ Use meaningful commits as you build and test the project. For example:
 8. `style: polish responsive layout and footer`
 9. `docs: add project overview and React answers`
 10. `fix: verify production build and asset paths`
+
+
+© Copyright Tahsin Ahmed. All rights reserved.
